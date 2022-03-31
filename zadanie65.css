@@ -1,0 +1,52 @@
+div#first {
+    font-size: 21pt;
+    color: cyan;
+}
+
+div#second {
+    font-size: 23pt;
+    color: cyan;
+}
+
+
+H1:first-letter {
+    color: silver;
+    font-size: 100;
+}
+
+H1 {
+    color: purple
+}
+
+
+
+div#first:first-letter {
+    font-size: 119pt;
+    color: orange;
+}
+
+div#second:first-letter {
+    font-size: 119pt;
+    color: blue;
+}
+
+body {
+    background-color: seashell
+}
+
+
+
+div#fourth {
+    font-size: 30;
+    color: navy
+}
+
+div#fourth:first-letter {
+    font-size: 100;
+    color: red;
+}
+
+div#fourth:first-line {
+    font-size: 20;
+    color: red;
+}

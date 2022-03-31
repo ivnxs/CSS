@@ -1,0 +1,126 @@
+div#a {
+   text-align: center; 
+   background-color: #c0c0c0;
+    color: #00ff00;
+}
+
+div#b {
+    text-align: center; 
+    background-color: #ffff99;
+    color: #00ffff;
+}
+
+div#c {
+    text-align: right; 
+    background-color: #800000;
+    color: #808000;
+}
+
+div#d {
+    text-align: left; 
+    background-color: #ff99ff;
+    color: #0000ff; 
+}
+
+div#e {
+    background-color: #00FFFF;
+    text-align: center;
+    
+}
+
+div#f {
+    text-align: left; 
+    background-color: #ff99ff;
+    color: #00ff00;
+}
+
+div#g {
+    text-align: right; 
+    background-color: #800000;
+    color: #00ffff;
+}
+
+div#h {
+    text-align: center; 
+    background-color: #ffff99;
+    color: #808000;
+}
+
+div#i {
+   text-align: center; 
+   background-color: #c0c0c0;
+    color: #0000ff; 
+}
+
+H1
+{
+color: #00ff00;
+}
+
+H1#ezz{
+    color: #000080; 
+}
+
+
+i#aa {
+color: #ff0000; }
+
+i#ab {
+    color: #008000;
+}
+
+i#ac {
+    color: #008080;
+}
+
+i#ad {
+    color: #800080;
+}
+
+i#ae {
+    color: #ffff00;
+}
+
+
+i#af {
+    color: #ff0000;
+}
+
+i#ag {
+    color: #008000;
+}
+
+i#ah {
+    color: #008080;
+}
+
+i#ai {
+    color: #800080;
+}
+
+ol ol li {
+color: #008000; }
+
+
+
+
+
+
+
+A:link{
+    background-color: #000080; (navy) color: #00ffff; (aqua)
+} 
+
+A:visited{ 
+    background-color: #00ffff; (aqua) color: #000080; (navy)
+}
+
+A:hover {
+    background-color: #ff0000; (red) color: #ffff00; (yellow) font-size: x-large;
+font-style: italic;
+
+} 
+
+A:active {
+    background-color: #000000; (black) color: #ffffff; (white)
+ }

@@ -1,0 +1,16 @@
+p { 
+    font-size:20mm; 
+    color:yellow;
+}
+
+p:lang(pl) {
+    font-weight:bold; 
+    font-size:27mm; 
+    color:silver;
+}
+
+p:lang(en) {
+    font-style:italic; 
+    font-size:34mm; 
+    color: yellow
+}

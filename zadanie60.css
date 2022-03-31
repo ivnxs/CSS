@@ -1,0 +1,29 @@
+div#blok1_iwasieczko {
+    background-color:greenyellow;
+    width:608px;
+}
+
+div#blok2_iwasieczko {
+    background-color:greenyellow;
+    width:608px;
+}
+
+div#blok3_iwasieczko {
+    background-color:greenyellow;
+    width:608px;
+}
+
+div#blok1_iwasieczko:hover {
+    background-color: orange;
+    font-size:20;}
+
+div#blok2_iwasieczko:hover {
+    background-color: skyblue;
+    font-size:20;}
+
+div#blok3_iwasieczko:hover {
+    background-color: aqua;
+    font-size:20;}
+
+/** hover; - jest używany gdy użytkownik wchodzi w interakcję z elementem za pomocą urządzenia wskazującego, ale niekoniecznie go aktywuje.
+        Kacper Iwasieczko **/
